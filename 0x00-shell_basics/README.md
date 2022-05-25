@@ -1,1 +1,1 @@
-listing contents of the file
+from working directory to home directory
