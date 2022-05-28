@@ -1,1 +1,1 @@
-Others except user and group
+PERMISSIONS
