@@ -1,1 +1,1 @@
-new directory with permissions 751
+Changing group owner
