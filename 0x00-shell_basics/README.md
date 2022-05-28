@@ -1,1 +1,1 @@
-Displaying content in long format
+displaying all contents even the hidden
