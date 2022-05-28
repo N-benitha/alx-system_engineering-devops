@@ -1,1 +1,1 @@
-PERMISSIONS
+Setting the mode of hello
