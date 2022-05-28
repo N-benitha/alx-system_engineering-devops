@@ -1,1 +1,1 @@
-Displaying current contents in long format
+Displaying content in long format
