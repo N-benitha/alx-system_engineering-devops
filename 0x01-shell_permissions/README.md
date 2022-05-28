@@ -1,1 +1,1 @@
-adding execute permission to everybody
+new directory with permissions 751
