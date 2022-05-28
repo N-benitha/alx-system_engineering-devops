@@ -1,1 +1,1 @@
-Setting the mode of hello
+adding execute permission to everybody
