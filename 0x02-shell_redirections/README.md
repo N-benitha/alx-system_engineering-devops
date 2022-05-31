@@ -1,1 +1,1 @@
-Prints text to the standard output
+Prints confused smiley
