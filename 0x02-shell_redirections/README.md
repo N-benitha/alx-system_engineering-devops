@@ -1,1 +1,1 @@
-script that creates file containing text
+displaying content in another file
