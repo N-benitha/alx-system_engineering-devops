@@ -1,1 +1,1 @@
-displaying third line of file
+script that creates file containing text
