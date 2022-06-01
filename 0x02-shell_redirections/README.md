@@ -1,1 +1,1 @@
-displaying users and their home directories
+creating a file that contains text
