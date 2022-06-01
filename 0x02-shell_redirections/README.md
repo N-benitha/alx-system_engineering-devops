@@ -1,1 +1,1 @@
-creating a file that contains text
+displaying empty directories
