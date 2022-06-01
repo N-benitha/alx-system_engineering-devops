@@ -1,1 +1,1 @@
-inputing words and printing them exactly once
+displaying lines with pattern root from file
