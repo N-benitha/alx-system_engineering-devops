@@ -1,1 +1,1 @@
-deletes all files with extension .js
+displays 10 newest files
