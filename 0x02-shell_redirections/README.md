@@ -1,1 +1,1 @@
-displays 10 newest files
+inputing words and printing them exactly once
