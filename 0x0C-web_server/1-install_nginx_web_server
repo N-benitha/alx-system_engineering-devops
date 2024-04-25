@@ -11,7 +11,7 @@ sudo apt-get update -y -qq && \
 echo -e "\nMinor settings.\n"
 
 #starting nginx service
-service nginx restart
+service nginx start
 
 #allowing nginx on firewall
 sudo ufw allow 'Nginx HTTP'
