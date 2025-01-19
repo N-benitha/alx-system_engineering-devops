@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
 #Debugging my first project by running Apache on the holbertonschool/265-0 Docker container
 
-sercive apache2 start
+sudo service apache2 start
+
