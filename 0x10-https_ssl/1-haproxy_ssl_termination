@@ -47,5 +47,5 @@ frontend nbenitha-frontend-https
 
 backend nbenitha-backend
         balance roundrobin
-        server 151666-web-01 100.25.190.21:80 check
-        server 151666-web-02 54.160.77.90:80 check
+        server 49322-web-01 100.26.236.241:80 check
+        server 49322-web-02 54.157.186.178:80 check
